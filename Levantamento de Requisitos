@@ -1,2 +1,19 @@
 Levantamento de requisitos necessários para a criação de um sistema de quiz:
--
+- deve ser perguntas de conhecimentos gerais e/ou que gere curiosidade no usuário:
+	* capitais dos paises; 
+	* sede, 3 primeiros colocados, artilheiro das copas do mundo;
+	* idéias gerais e uso da vida real da física quântica 
+
+- O usuário deve escolher o assunto que por meio de um menu;
+
+- Deve ser atribuído pontos que deverãos ser comparados com outros usuários para incentivar a competição;
+
+- Deve ser atribuido recompensas a cada nível alcançado:
+	* acesso a ebooks sobre o tema do quiz
+
+- Deve se procurar uma forma de retenção da informação (apredizagem do conhecimento):
+	* repetições regulares de perguntas para fixação do conhecimento;
+
+- Possibilitar interação entre os usuários além de possibilidade de fazer grupos entre amigos
+
+- Deve ter pesquisa de satisfação e também sobre temas que os usuário querem no quiz.
